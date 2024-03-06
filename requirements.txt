@@ -1,0 +1,12 @@
+scikit-learn==1.4.3
+numpy
+flask
+mysql
+mysql-connector-python
+mysql-connector
+pydantic
+typing
+pandas
+scipy
+json
+
